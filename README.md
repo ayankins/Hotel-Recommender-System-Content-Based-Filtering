@@ -6,7 +6,6 @@ This repository contains a hotel recommender system that utilizes content-based 
 
 - **Data Integration**: Merges multiple datasets including hotel details, room prices, and amenities.
 - **Recommendation System**: Implements a content-based filtering approach to recommend hotels based on user input.
-- **User Interface**: Provides a user-friendly interface using Streamlit for easy interaction and hotel recommendations.
 
 ## Datasets
 
